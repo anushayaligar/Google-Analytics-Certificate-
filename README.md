@@ -27,5 +27,5 @@ This certification strengthened my ability to analyze datasets, identify trends,
 
 - Issued By: Google via Coursera
 - Status: Completed
-- Credential ID: Add if available
-- Verification Link: Add Coursera credential link if available
+- Credential ID: 1YPR52CRNUHV
+- Verification Link: https://www.coursera.org/account/accomplishments/specialization/certificate/1YPR52CRNUHV
