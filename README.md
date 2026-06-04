@@ -17,7 +17,7 @@ Completed the Google Data Analytics Professional Certificate offered by Google t
 
 ## Certificate
 
-![Google Data Analytics Certificate](certificate.png)
+!https://github.com/anushayaligar/Google-Analytics-Certificate-/blob/main/cetificate.png
 
 ## About
 
