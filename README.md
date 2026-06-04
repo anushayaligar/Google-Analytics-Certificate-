@@ -1,15 +1,31 @@
+# Google Data Analytics Professional Certificate
 
-Google Data Analytics Professional Certificate
+Completed the Google Data Analytics Professional Certificate offered by Google through Coursera.
 
-Completed Google's industry-recognised Data Analytics Professional Certificate through Coursera. The program covered:
+## Skills Acquired
 
-• Data Analysis Process
-• Data Cleaning and Transformation
-• SQL for Data Analysis
-• Spreadsheet Analysis
-• Data Visualisation
-• Tableau Dashboards
-• Data-Driven Decision Making
-• Analytical Thinking and Problem Solving
+- Data Analysis
+- Data Cleaning and Transformation
+- SQL for Data Analysis
+- Spreadsheet Analysis
+- Data Visualization
+- Tableau Dashboards
+- Data-Driven Decision Making
+- Analytical Thinking
+- Problem Solving
+- Data Storytelling
 
-This certification strengthened my ability to analyse datasets, identify trends, create visual reports, and communicate insights effectively for business decision-making.
+## Certificate
+
+![Google Data Analytics Certificate](certificate.png)
+
+## About
+
+This certification strengthened my ability to analyze datasets, identify trends, create dashboards, generate business insights, and communicate data-driven recommendations effectively.
+
+## Credential
+
+- Issued By: Google via Coursera
+- Status: Completed
+- Credential ID: Add if available
+- Verification Link: Add Coursera credential link if available
